@@ -5,5 +5,6 @@ public class TestBase {
 	public void setUp()
 	{
 		System.out.println("TestBase");
+		System.out.println("update");
 	}
 }
