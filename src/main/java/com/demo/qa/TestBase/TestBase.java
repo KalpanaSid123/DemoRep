@@ -6,5 +6,6 @@ public class TestBase {
 	{
 		System.out.println("TestBase");
 		System.out.println("update");
+		System.out.println("hi");
 	}
 }
