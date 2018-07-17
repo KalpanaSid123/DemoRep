@@ -1,0 +1,4 @@
+com\demo\qa\pages\LoginPage.class
+com\demo\qa\util\Demoutil.class
+com\demo\qa\TestBase\TestBase.class
+com\demo\qa\pages\SearchPage.class
