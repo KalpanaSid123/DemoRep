@@ -2,9 +2,7 @@ package com.demo.qa.testcases;
 
 import org.testng.annotations.Test;
 
-public class LoginTest {
-	
-	//to test login page.
+public class LoginTest2{
 
 	@Test
 	public void loginTest()
